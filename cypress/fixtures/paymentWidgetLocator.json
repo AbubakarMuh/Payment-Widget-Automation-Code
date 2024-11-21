@@ -1,0 +1,19 @@
+{
+  "amountField": "[data-cy='amountInput']",
+  "amount": 10000,
+  "submitBtn": "[data-cy='initiateWidget']",
+
+  "payWithTransfer":"hidden mx-auto mt-16 md:flex",
+  "copyField": "[data-cy='copyBtn']",
+  "copyPopValidation": "li[role='status']",
+  "popText": "Account number copied successfully",
+  "iHavePaidBtn": "object",
+
+  "payWithUSSDBtn": ".inline-flex",
+  "selectBankFromDropDown": ".select__value-container.select__value-container--has-value.css-hlgwow",
+  "copyBtn": ".border.border-lightgray-700.flex.items-start.justify-center.min-h-/[250px/].mt-10.p-6.rounded-md.w-full .text-xs",
+  "iHavePaidBtnUssd": "[class='flex items-center justify-between gap-5 mt-10'] > button:nth-child(2)",
+  "copyPopValidationUssd": ".text-sm.font-semibold",
+  "popTextUssd": "USSD String generated successfully"
+
+}
